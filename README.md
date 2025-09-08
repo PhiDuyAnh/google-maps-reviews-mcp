@@ -5,6 +5,7 @@ A simple tool to summarize reviews of a place on Google Maps. Provide the chatbo
 ## Features
 
 - Scrape reviews from Google Maps to summarize
+- Save reviews to an Excel file
 
 ## Installation
 
